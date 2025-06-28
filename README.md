@@ -15,7 +15,7 @@ ChatLooper is a brand new (closed-source) alternative to… well, nothing really
 ## Demo
 
 Access the app online with no registration required:
-[ChatLooper 1.0](https://chatlooper.up.railway.app)
+[ChatLooper 1.3](https://chatlooper.up.railway.app)
 
 ## Technologies Used
 
